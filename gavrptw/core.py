@@ -7,7 +7,7 @@ import io
 import random
 from csv import DictWriter
 from deap import base, creator, tools
-from . import BASE_DIR
+#from . import BASE_DIR
 from .utils import make_dirs_for_file, exist, load_instance, merge_rules
 
 
